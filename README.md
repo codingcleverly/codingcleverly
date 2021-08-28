@@ -1,6 +1,6 @@
-## Hey there Clever Coders! 👋
+# Hey there Clever Coders! 👋
 
-### Software Development Enthusiast |
+## | Software Development Enthusiast |
 <!-- **haris-bit/haris-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- Here are some ideas to get you started: -->
 
